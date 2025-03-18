@@ -1,0 +1,4 @@
+# Conda environment files
+conda-meta/
+envs/
+.pkgs/
